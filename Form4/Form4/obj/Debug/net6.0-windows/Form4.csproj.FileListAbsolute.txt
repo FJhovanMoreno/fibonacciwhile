@@ -1,0 +1,36 @@
+C:\Users\freddy.moreno\source\repos\Form4\Form4\bin\Debug\net6.0-windows\Form4.exe
+C:\Users\freddy.moreno\source\repos\Form4\Form4\bin\Debug\net6.0-windows\Form4.deps.json
+C:\Users\freddy.moreno\source\repos\Form4\Form4\bin\Debug\net6.0-windows\Form4.runtimeconfig.json
+C:\Users\freddy.moreno\source\repos\Form4\Form4\bin\Debug\net6.0-windows\Form4.dll
+C:\Users\freddy.moreno\source\repos\Form4\Form4\bin\Debug\net6.0-windows\Form4.pdb
+C:\Users\freddy.moreno\source\repos\Form4\Form4\obj\Debug\net6.0-windows\Form4.csproj.AssemblyReference.cache
+C:\Users\freddy.moreno\source\repos\Form4\Form4\obj\Debug\net6.0-windows\Form4.Form1.resources
+C:\Users\freddy.moreno\source\repos\Form4\Form4\obj\Debug\net6.0-windows\Form4.csproj.GenerateResource.cache
+C:\Users\freddy.moreno\source\repos\Form4\Form4\obj\Debug\net6.0-windows\Form4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freddy.moreno\source\repos\Form4\Form4\obj\Debug\net6.0-windows\Form4.AssemblyInfoInputs.cache
+C:\Users\freddy.moreno\source\repos\Form4\Form4\obj\Debug\net6.0-windows\Form4.AssemblyInfo.cs
+C:\Users\freddy.moreno\source\repos\Form4\Form4\obj\Debug\net6.0-windows\Form4.csproj.CoreCompileInputs.cache
+C:\Users\freddy.moreno\source\repos\Form4\Form4\obj\Debug\net6.0-windows\Form4.dll
+C:\Users\freddy.moreno\source\repos\Form4\Form4\obj\Debug\net6.0-windows\refint\Form4.dll
+C:\Users\freddy.moreno\source\repos\Form4\Form4\obj\Debug\net6.0-windows\Form4.pdb
+C:\Users\freddy.moreno\source\repos\Form4\Form4\obj\Debug\net6.0-windows\Form4.genruntimeconfig.cache
+C:\Users\freddy.moreno\source\repos\Form4\Form4\obj\Debug\net6.0-windows\ref\Form4.dll
+C:\Users\freddy.moreno\source\repos\Form4\Form4\obj\Debug\net6.0-windows\Form4.Properties.Resources.resources
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\bin\Debug\net6.0-windows\Form4.exe
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\bin\Debug\net6.0-windows\Form4.deps.json
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\bin\Debug\net6.0-windows\Form4.runtimeconfig.json
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\bin\Debug\net6.0-windows\Form4.dll
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\bin\Debug\net6.0-windows\Form4.pdb
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\obj\Debug\net6.0-windows\Form4.csproj.AssemblyReference.cache
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\obj\Debug\net6.0-windows\Form4.Form1.resources
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\obj\Debug\net6.0-windows\Form4.Properties.Resources.resources
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\obj\Debug\net6.0-windows\Form4.csproj.GenerateResource.cache
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\obj\Debug\net6.0-windows\Form4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\obj\Debug\net6.0-windows\Form4.AssemblyInfoInputs.cache
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\obj\Debug\net6.0-windows\Form4.AssemblyInfo.cs
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\obj\Debug\net6.0-windows\Form4.csproj.CoreCompileInputs.cache
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\obj\Debug\net6.0-windows\Form4.dll
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\obj\Debug\net6.0-windows\refint\Form4.dll
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\obj\Debug\net6.0-windows\Form4.pdb
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\obj\Debug\net6.0-windows\Form4.genruntimeconfig.cache
+C:\Users\Emperor\Documents\CUN\PROGRAMACIÓN AVANZADA\ACA1\Form4\Form4\obj\Debug\net6.0-windows\ref\Form4.dll
